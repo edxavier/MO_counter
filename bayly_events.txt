@@ -1,0 +1,119 @@
+14/06/03 20:52:20     Rx Frame Loss
+14/06/03 20:52:20     Rx Multiframe Loss
+14/06/03 20:52:20     Rx Frame Loss Cleared
+14/06/03 20:52:20     Rx Multiframe Loss Cleared
+14/06/03 20:52:20     Rx AIS
+14/06/03 20:52:20     Rx AIS Cleared
+14/06/03 21:48:08     Rx Frame Loss
+14/06/03 21:48:08     Rx Multiframe Loss
+14/06/03 21:48:08     Rx Frame Loss Cleared
+14/06/03 21:48:08     Rx Multiframe Loss Cleared
+14/06/03 21:48:08     Rx AIS
+14/06/03 21:48:08     Rx AIS Cleared
+14/06/04 19:20:06     Rx Frame Loss
+14/06/04 19:20:06     Rx Multiframe Loss
+14/06/04 19:20:06     Rx Frame Loss Cleared
+14/06/04 19:20:06     Rx Multiframe Loss Cleared
+14/06/04 19:20:06     Rx AIS
+14/06/04 19:20:06     Rx AIS Cleared
+14/06/04 21:17:54     Rx Frame Loss
+14/06/04 21:17:54     Rx Multiframe Loss
+14/06/04 21:17:54     Rx Frame Loss Cleared
+14/06/04 21:17:54     Rx Multiframe Loss Cleared
+14/06/04 21:17:54     Rx AIS
+14/06/04 21:17:54     Rx AIS Cleared
+14/06/04 21:20:20     Rx Frame Loss
+14/06/04 21:20:20     Rx Multiframe Loss
+14/06/04 21:20:20     Rx Frame Loss Cleared
+14/06/04 21:20:20     Rx Multiframe Loss Cleared
+14/06/04 21:20:20     Rx AIS
+14/06/04 21:20:20     Rx AIS Cleared
+14/06/04 22:35:36     Input Failure
+14/06/04 22:35:36     Input Failure Cleared
+14/06/04 22:36:50     Input Failure
+14/06/04 22:36:50     Input Failure Cleared
+14/06/05 15:35:06     Rx Frame Loss
+14/06/05 15:35:06     Rx Multiframe Loss
+14/06/05 15:35:06     Rx Frame Loss Cleared
+14/06/05 15:35:06     Rx Multiframe Loss Cleared
+14/06/05 15:35:06     Rx AIS
+14/06/05 15:35:06     Rx AIS Cleared
+14/06/05 15:36:04     Rx Frame Loss
+14/06/05 15:36:04     Rx Multiframe Loss
+14/06/05 15:36:04     Rx Frame Loss Cleared
+14/06/05 15:36:04     Rx Multiframe Loss Cleared
+14/06/05 15:36:04     Rx AIS
+14/06/05 15:36:04     Rx AIS Cleared
+14/06/09 18:39:44     Rx Frame Loss
+14/06/09 18:39:44     Rx Multiframe Loss
+14/06/09 18:39:44     Rx Frame Loss Cleared
+14/06/09 18:39:44     Rx Multiframe Loss Cleared
+14/06/09 18:39:44     Rx AIS
+14/06/09 18:39:44     Rx AIS Cleared
+14/06/09 18:40:26     Rx Frame Loss
+14/06/09 18:40:26     Rx Multiframe Loss
+14/06/09 18:40:26     Rx Frame Loss Cleared
+14/06/09 18:40:26     Rx Multiframe Loss Cleared
+14/06/09 18:40:26     Rx AIS
+14/06/09 18:40:26     Rx AIS Cleared
+14/06/10 20:44:59     Rx Frame Loss
+14/06/10 20:44:59     Rx Multiframe Loss
+14/06/10 20:44:59     Rx Frame Loss Cleared
+14/06/10 20:44:59     Rx Multiframe Loss Cleared
+14/06/10 20:44:59     Input Failure
+14/06/10 20:44:59     System Power Down
+14/06/10 20:47:30     System Power Up
+14/06/10 20:47:30     External Clock Failure
+14/06/10 20:47:30     External Clock Failure Cleared
+14/06/10 20:47:31     Input Failure
+14/06/10 20:48:27     Input Failure Cleared
+14/06/10 20:48:27     Rx AIS
+14/06/10 20:48:31     Rx AIS Cleared
+14/06/10 20:48:31     Rx Multiframe Loss
+14/06/10 20:48:31     Rx Multiframe Loss Cleared
+14/06/10 20:48:31     Rx Remote Alarm
+14/06/10 20:48:39     Rx Remote Alarm Cleared
+14/06/10 23:14:24     Rx Frame Loss
+14/06/10 23:14:24     Rx Multiframe Loss
+14/06/10 23:14:24     Rx Frame Loss Cleared
+14/06/10 23:14:24     Rx Multiframe Loss Cleared
+14/06/10 23:14:24     Input Failure
+14/06/10 23:14:24     System Power Down
+14/06/10 23:15:01     System Power Up
+14/06/10 23:15:01     External Clock Failure
+14/06/10 23:15:01     External Clock Failure Cleared
+14/06/10 23:15:02     Input Failure
+14/06/10 23:15:59     Input Failure Cleared
+14/06/10 23:15:59     Rx Frame Loss
+14/06/10 23:15:59     Rx Multiframe Loss
+14/06/10 23:15:59     Rx Frame Loss Cleared
+14/06/10 23:15:59     Rx Multiframe Loss Cleared
+14/06/10 23:15:59     Rx AIS
+14/06/10 23:16:03     Rx AIS Cleared
+14/06/10 23:16:03     Rx Multiframe Loss
+14/06/10 23:16:03     Rx Multiframe Loss Cleared
+14/06/10 23:16:03     Rx Remote Alarm
+14/06/10 23:16:10     Rx Remote Alarm Cleared
+14/06/10 23:23:39     Rx Frame Loss
+14/06/10 23:23:39     Rx Multiframe Loss
+14/06/10 23:23:39     Rx Frame Loss Cleared
+14/06/10 23:23:39     Rx Multiframe Loss Cleared
+14/06/10 23:23:39     Input Failure
+14/06/10 23:23:39     System Power Down
+14/06/10 23:23:58     System Power Up
+14/06/10 23:23:58     External Clock Failure
+14/06/10 23:23:58     External Clock Failure Cleared
+14/06/10 23:23:59     Input Failure
+14/06/10 23:24:55     Input Failure Cleared
+14/06/10 23:24:55     Rx AIS
+14/06/10 23:25:00     Rx AIS Cleared
+14/06/10 23:25:00     Rx Multiframe Loss
+14/06/10 23:25:00     Rx Multiframe Loss Cleared
+14/06/10 23:25:00     Rx Remote Alarm
+14/06/10 23:25:04     Rx Remote Alarm Cleared
+14/08/16 23:07:50     Rx Frame Loss
+14/08/16 23:07:50     Rx Multiframe Loss
+14/08/16 23:07:50     Rx Frame Loss Cleared
+14/08/16 23:07:50     Rx Multiframe Loss Cleared
+14/08/16 23:07:50     Rx AIS
+14/08/16 23:07:50     Rx AIS Cleared
